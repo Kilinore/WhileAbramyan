@@ -1,0 +1,9 @@
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\bin\Debug\netstandard2.0\MyWhileTasks.deps.json
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\bin\Debug\netstandard2.0\MyWhileTasks.dll
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\bin\Debug\netstandard2.0\MyWhileTasks.pdb
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\obj\Debug\netstandard2.0\MyWhileTasks.csprojAssemblyReference.cache
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\obj\Debug\netstandard2.0\MyWhileTasks.AssemblyInfoInputs.cache
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\obj\Debug\netstandard2.0\MyWhileTasks.AssemblyInfo.cs
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\obj\Debug\netstandard2.0\MyWhileTasks.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\obj\Debug\netstandard2.0\MyWhileTasks.dll
+C:\Users\banan\Desktop\MyWhileTasks\MyWhileTasks\obj\Debug\netstandard2.0\MyWhileTasks.pdb
